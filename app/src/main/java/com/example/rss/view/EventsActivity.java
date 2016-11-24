@@ -62,7 +62,6 @@ public class EventsActivity extends AppCompatActivity {
         protected void onPostExecute(List res) {
             super.onPostExecute(res);
             mProgress.setVisibility(View.INVISIBLE);
-            mRecyclerView.setVisibility(View.VISIBLE);
             EventAdapter adapter = new EventAdapter(res);
             mRecyclerView.setAdapter(adapter);
             //Log.i("ASYNC", String.valueOf(res.size()));
@@ -78,7 +77,6 @@ public class EventsActivity extends AppCompatActivity {
         @Override
         protected void onPreExecute() {
             super.onPreExecute();
-            mRecyclerView.setVisibility(View.INVISIBLE);
             mProgress.setVisibility(View.VISIBLE);
         }
     }
@@ -109,17 +107,6 @@ public class EventsActivity extends AppCompatActivity {
             Intent intent = WebActivity.newInstance(getApplicationContext(), url);
             startActivity(intent);
         }
-
-        public Bitmap getUrlBitmap(String url){
-            Bitmap bitmap = null;
-            try {
-                bitmap = BitmapFactory.decodeStream(new URL(url).openStream());
-            } catch (Exception e){
-                Log.d("Exception", "getUrlBitmap");
-            }
-            return bitmap;
-        }
-
     }
 
     class EventAdapter extends RecyclerView.Adapter<EventHolder> {
