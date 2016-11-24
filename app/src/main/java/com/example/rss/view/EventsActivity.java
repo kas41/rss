@@ -109,17 +109,6 @@ public class EventsActivity extends AppCompatActivity {
             Intent intent = WebActivity.newInstance(getApplicationContext(), url);
             startActivity(intent);
         }
-
-        public Bitmap getUrlBitmap(String url){
-            Bitmap bitmap = null;
-            try {
-                bitmap = BitmapFactory.decodeStream(new URL(url).openStream());
-            } catch (Exception e){
-                Log.d("Exception", "getUrlBitmap");
-            }
-            return bitmap;
-        }
-
     }
 
     class EventAdapter extends RecyclerView.Adapter<EventHolder> {
