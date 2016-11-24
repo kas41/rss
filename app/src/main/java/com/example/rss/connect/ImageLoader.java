@@ -46,6 +46,7 @@ public class ImageLoader {
              connection = (HttpURLConnection) url.openConnection();
              connection.setDoInput(true);
              connection.connect();
+
              bitmap = BitmapFactory.decodeStream(connection.getInputStream());
          } catch (Exception e){
              Log.d("Image Loader", "Error");

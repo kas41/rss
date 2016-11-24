@@ -93,6 +93,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/eugene/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/eugene/Android/Rss/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_18ae98872047e6446f05cee49e35953b75ee4431.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/eugene/Android/Rss/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
@@ -162,15 +171,6 @@
         revision="24.0.3"
         sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
         <dex dex="/home/eugene/Android/Rss/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ffe46a6227911560622363e67c97cb88fd35eba0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
-        <dex dex="/home/eugene/Android/Rss/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_3ca4091782136f574c520d9bce3779f8ed5689f0.jar" />
     </item>
     <item
         is-multidex="false"

@@ -2,21 +2,17 @@ package com.example.rss.view;
 
 import android.content.Context;
 import android.content.Intent;
-import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
-import java.net.URL;
 import com.example.rss.R;
 import com.example.rss.connect.Connect;
 import com.example.rss.connect.ImageLoader;
@@ -62,9 +58,9 @@ public class EventsActivity extends AppCompatActivity {
         protected void onPostExecute(List res) {
             super.onPostExecute(res);
             mProgress.setVisibility(View.INVISIBLE);
+            mProgress = null;
             EventAdapter adapter = new EventAdapter(res);
             mRecyclerView.setAdapter(adapter);
-            //Log.i("ASYNC", String.valueOf(res.size()));
         }
 
         @Override
@@ -95,7 +91,7 @@ public class EventsActivity extends AppCompatActivity {
 
         public void bind(Event event){
             mEvent = event;
-            //ручная загрузка изображений, но без их кэширования и сжатия
+            //ручная загрузка изображений, очень кривая
             //ImageLoader.fetchImage(mEvent.getImageURL(), mImage);
             Picasso.with(getApplicationContext()).load(mEvent.getImageURL()).into(mImage);
             mTitle.setText(mEvent.getTitle());

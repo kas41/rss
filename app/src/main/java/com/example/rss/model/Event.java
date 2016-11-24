@@ -22,7 +22,6 @@ public class Event {
         private String mTitle;
         private String mLink;
         private String mImageURL;
-        private String mDate;
 
         public Builder(){}
 
