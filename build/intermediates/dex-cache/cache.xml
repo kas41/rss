@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/eugene/Android/Rss/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/eugene/Android/Rss/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_ea1812a67147050112a87a0736bbc7e368306256.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eugene/Android/Rss/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f954613cb6ee213bf4afeb206ba471a8aa8e9e3d">
+        <dex dex="/home/eugene/Android/Rss/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_1a30c9ec02dae7c8235c4f20857c2414949c15ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eugene/Android/Rss/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/eugene/Android/Rss/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_26239ae6c9d306eaa5c9aab4ed972514710d18aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eugene/Android/Rss/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/eugene/Android/Rss/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_8b34096499e2b1f76e8be8a7e30e290c337ded11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eugene/Android/Rss/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/eugene/Android/Rss/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_467407b7783572eaadc9ab71f9313945723d7619.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eugene/Android/Rss/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9dfc278974c2de13b51304151afcd67dc7dcb873">
+        <dex dex="/home/eugene/Android/Rss/app/build/intermediates/pre-dexed/debug/instant-run_dcff82d8b0deb5459b8f137f6ca92f8c131fd846.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eugene/Android/Rss/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/home/eugene/Android/Rss/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.0_c689d7ee5ced82332eda6a8f3c7ca1cad9897947.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.2/d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27/picasso-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="/home/eugene/Android/Rss/app/build/intermediates/pre-dexed/debug/picasso-2.3.2_ec31bec87f0bd5f2fa720338df2924fea4a48eb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eugene/Android/Rss/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/eugene/Android/Rss/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_93e38ecc2ed664752be349c2d7d3c7cecbd99681.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eugene/Android/Rss/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/eugene/Android/Rss/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_5e30149a8a7043e677aa16b75f5ee3edb5207ce9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eugene/Android/Rss/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/eugene/Android/Rss/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_77435d6905e18d23691ca28bac21302348938fd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eugene/Android/Rss/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/eugene/Android/Rss/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ffe46a6227911560622363e67c97cb88fd35eba0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eugene/Android/Rss/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/eugene/Android/Rss/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_59e78af80350b37cf4deceb489ceff9a1d6ba2e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eugene/Android/Rss/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/eugene/Android/Rss/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_85da8b85f3349bca799878b130b0715d5ba84c9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/eugene/Android/Rss/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_3ca4091782136f574c520d9bce3779f8ed5689f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eugene/Android/Rss/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/eugene/Android/Rss/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d217f91de834b1385dc8d0aa2812f6b9268309d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eugene/Android/Rss/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/eugene/Android/Rss/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_dcab1a19192634c4f41b37c9252d2ea9b23deb40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eugene/Android/Rss/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/home/eugene/Android/Rss/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.0_83b0f52ec61f8930de7cd00bd4bd7936a6953a86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eugene/Android/Rss/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/eugene/Android/Rss/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_4ee740fee13e4eb945404f54e52f384c279a5db4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/eugene/Android/Rss/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/eugene/Android/Rss/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_5483752559cc675ddd8a6f7b8229a1d1d396f25a.jar" />
+    </item>
+
+</items>
