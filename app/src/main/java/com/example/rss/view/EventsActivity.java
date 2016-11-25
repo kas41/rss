@@ -58,7 +58,6 @@ public class EventsActivity extends AppCompatActivity {
         protected void onPostExecute(List res) {
             super.onPostExecute(res);
             mProgress.setVisibility(View.INVISIBLE);
-            mProgress = null;
             EventAdapter adapter = new EventAdapter(res);
             mRecyclerView.setAdapter(adapter);
         }
